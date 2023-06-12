@@ -7,6 +7,8 @@
 <br>
 <div align=center>
   <h3>📚 Tech Stack 📚</h3>
+  <br>
+  <p>✨ Languages ✨</p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
   <br>
@@ -16,7 +18,14 @@
   <br>
   <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
-</div>   
+</div>
+<br>
+<div align=center>
+	<p>🛠 Tools 🛠</p>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+</div>
 <br>
 <br>
 
