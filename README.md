@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Welcome👋&fontAlign=70&rotate=13&fontAlignY=25&desc=JinJu's%20GitHub&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Welcome👋&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44)
 <div align=center>
 <h3>환영합니다👋</h3>
 ⚡성장하는⚡ 개발자 이진주입니다.
