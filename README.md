@@ -34,9 +34,6 @@
 <br>
 <br>   
         
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=jinju1123&show_icons=true)
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jinju1123&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jinju1123)        
-
         
 <!--
 **jinju1123/jinju1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
